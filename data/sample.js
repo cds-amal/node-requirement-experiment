@@ -1,0 +1,3 @@
+global.loadCounter++;
+
+module.exports = {};
